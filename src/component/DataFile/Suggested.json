@@ -1,0 +1,7 @@
+[
+  { "key": 0, "name": "Delhi", "country_code": "IN", "code": "DEL" },
+  { "key": 1, "name": "Mumbai", "country_code": "IN", "code": "BOM" },
+  { "key": 2, "name": "Kolkata", "country_code": "IN", "code": "CCU" },
+  { "key": 3, "name": "Chennai", "country_code": "IN", "code": "MMA" },
+  { "key": 4, "name": "Hyderabad", "country_code": "IN", "code": "HYD" }
+]
